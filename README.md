@@ -79,7 +79,7 @@ A Python-based Dice Rolling Simulator with:
     ┃  ┣ 📷 terminal_output.png
     ┃  ┣ 📷 histogram.png
     ┃  ┗ 🎥 demo.gif
-    ┗ 📜 results.csv         # Exported results (optional)
+    ┗ 📜 dice_results.csv         # Exported results (optional)
 
    
 
