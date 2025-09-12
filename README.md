@@ -71,8 +71,7 @@ A Python-based Dice Rolling Simulator with:
  ---
 
  ### 📂 Project Structure
- 
-  ```bash
+   ```bash
     📦 dice-rolling-simulator
     ┣ 📜 dice_simulator.py   # Main script
     ┣ 📜 README.md           # Documentation
@@ -82,14 +81,7 @@ A Python-based Dice Rolling Simulator with:
     ┃  ┗ 🎥 demo.gif
     ┗ 📜 results.csv         # Exported results (optional)
 
-
-
-
-
-
-
-
-
+   
 
 
 
